@@ -2,6 +2,9 @@
 
 Using the **Minimax algorithm**, I implemented an AI that plays **Tic-Tac-Toe optimally**. The project includes full game logic and a graphical interface, allowing you to play against an **unbeatable AI**. It features move evaluation, game state tracking, and decision-making for perfect play in every match.
 
+🕹️ Play the game live here:
+NB: Exercise patience please, it might a few mins to load!
+👉 https://peramide.github.io/tictactoe/
 ---
 
 ## 🧠 Overview
