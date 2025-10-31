@@ -8,6 +8,8 @@ NB: Exercise patience please, it might a few mins to load!
 ---
 
 ## 🧠 Overview
+<img width="712" height="534" alt="Tic-tac-toe game image" src="https://github.com/user-attachments/assets/c717a22f-7bae-4a95-94c3-fabeffd66334" />
+
 
 This project applies **artificial intelligence** principles to the classic game of **Tic-Tac-Toe**. By using the **Minimax algorithm**, the AI analyzes all possible future moves and chooses the best one, ensuring it never loses. The result is an intelligent and competitive opponent that demonstrates algorithmic reasoning and decision-making.
 
